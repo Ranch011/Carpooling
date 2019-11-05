@@ -1,0 +1,64 @@
+.Aloginbox{
+	width:220px;
+	height:320px;
+	background:#00ffff;
+	color:black;
+	top:20.4%;
+	left:0.6%;
+	
+	position: absolute;
+	box-sizing: border-box;
+	padding:70px 30px;
+	
+}
+.Aloginbox ,input[type="text"],input[type="password"]
+{
+	
+	border:none;
+	border-bottom:1px solid;
+background:#00ffff;
+	color:black;
+}
+.acreatebox{
+	width:220px;
+	height:420px;
+	background:#00ffff;
+	color:black;
+	top:20.5%;
+	left:0.6%;
+	
+	position: absolute;
+	box-sizing: border-box;
+	padding:70px 30px;
+	
+}
+.acreatebox,input[type="text"],input[type="password"],input[type="email"],input[type="phoneno"]
+{
+	
+	border:none;
+	border-bottom:1px solid;
+background:#00ffff;
+	color:black;
+	
+}
+.apasswordbox{
+	width:220px;
+	height:300px;
+	background:#00ffff;
+	color:black;
+	top:20.5%;
+	left:0.6%;
+	
+	position: absolute;
+	box-sizing: border-box;
+	padding:70px 30px;
+	
+}
+.apasswordbox,input[type="text"],input[type="password"],input[type="email"],input[type="phoneno"]
+{
+	
+	border:none;
+	border-bottom:1px solid;
+background:#00ffff;
+	color:black;
+	
